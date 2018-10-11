@@ -1,8 +1,13 @@
 {
   "pages":[
     "pages/index/index",
-    "pages/logs/logs"
-  ],
+    "pages/accountChart/index",
+    "pages/makeAccount/index",
+    "pages/specialList/index",
+    "pages/makeSpecial/index",
+    "pages/diaryList/index",
+    "pages/makeDiary/index"
+],
   "window":{
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#fff",
