@@ -1,0 +1,10 @@
+/* pages/acount/home/acountHome.wxss */
+.acount-home-bg{
+  background: #00aaaa;
+  height:100vh;
+  width:100vh;
+}
+.account-chart-animate{
+  background: blue;
+  height:60vh;
+}

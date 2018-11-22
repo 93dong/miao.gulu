@@ -1,17 +1,16 @@
 {
-  "pages":[
+  "pages": [
     "pages/index/index",
-    "pages/accountChart/index",
-    "pages/makeAccount/index",
-    "pages/specialList/index",
-    "pages/makeSpecial/index",
-    "pages/diaryList/index",
-    "pages/makeDiary/index"
-],
-  "window":{
-    "backgroundTextStyle":"light",
-    "navigationBarBackgroundColor": "#fff",
+    "pages/acount/acountHome/acountHome",
+    "pages/acount/acountDetail/acountDetail",
+    "pages/acount/acountList/acountList",
+    "pages/acount/acountAdd/acountAdd"
+   
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#aa0000",
     "navigationBarTitleText": "WeChat",
-    "navigationBarTextStyle":"black"
+    "navigationBarTextStyle": "black"
   }
 }

@@ -1,0 +1,11 @@
+<!--pages/acount/home/acountHome.wxml-->
+<view class='container acount'>
+  <view class='title'>
+    <view class='acount-icon'></view>
+    <text>XX</text>
+  </view>
+  <view class='account-chart-animate'>
+    <view animation='{{animationData}}' style='background:red;height:100rpx;width:100rpx'></view>
+  </view>
+</view>
+
