@@ -1,5 +1,6 @@
 //app.js
 //测试合并分支
+//测试合并分支2
 
 App({
   onLaunch: function () {
