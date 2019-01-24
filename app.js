@@ -1,35 +1,12 @@
 //app.js
-//测试合并分支
-//测试合并分支2//app.js
-//测试合并分支
-//测试合并分支2//app.js
-//测试合并分支
-//测试合并分支2//app.js
-//测试合并分支
-//测试合并分支2//app.js
-//测试合并分支
-//测试合并分支2//app.js
-//测试合并分支
-//测试合并分支2//app.js
-//测试合并分支
-//测试合并分支2//app.js
-//测试合并分支
-//测试合并分支2//app.js
-//测试合并分支
-//测试合并分支2//app.js
-//测试合并分支
-//测试合并分支2//app.js
-//测试合并分支
-//测试合并分支2
-//合并
-//合并2
 App({
   onLaunch: function () {
+    // commit 1
     // 展示本地存储能力
     var logs = wx.getStorageSync('logs') || []
     logs.unshift(Date.now())
     wx.setStorageSync('logs', logs)
-
+    // commit 2
     // 登录
     wx.login({
       success: res => {
