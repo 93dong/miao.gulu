@@ -14,7 +14,7 @@ App({
         // 发送 res.code 到后台换取 openId, sessionKey, unionId
       }
     })
-      // 测试merge
+      // 测试merge23
     // 获取用户信息
     wx.getSetting({
       success: res => {
