@@ -1,7 +1,7 @@
 //app.js
 //测试合并分支
 //测试合并分支2
-
+//合并
 App({
   onLaunch: function () {
     // 展示本地存储能力
