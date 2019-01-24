@@ -1,13 +1,13 @@
 //app.js
 App({
   onLaunch: function () {
-    // commit 1
+    // commit 3
     // 展示本地存储能力
     var logs = wx.getStorageSync('logs') || []
     logs.unshift(Date.now())
     wx.setStorageSync('logs', logs)
     // commit 2
-      // commit 3
+      // commit 1
     // 登录
     wx.login({
       success: res => {
