@@ -7,6 +7,7 @@ App({
     logs.unshift(Date.now())
     wx.setStorageSync('logs', logs)
     // commit 2
+      // commit 3
     // 登录
     wx.login({
       success: res => {
