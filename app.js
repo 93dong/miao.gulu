@@ -10,11 +10,15 @@ App({
       // commit 3
     // 登录
     console.log('登录qwewqewqeq');
+<<<<<<< HEAD
     wx.login({
       success:res=>{
         console.log(res);
       }
     })
+=======
+    console.log('123213');
+>>>>>>> test2
       // 测试merge23
     // 获取用户信息
     wx.getSetting({
