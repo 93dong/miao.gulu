@@ -9,7 +9,7 @@ App({
     // commit 2
       // commit 3
     // 登录
-    console.log('登录');
+    console.log('登录qwewqewqeq');
     wx.login({
       success: res => {
         // 发送 res.code 到后台换取 openId, sessionKey, unionId
