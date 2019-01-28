@@ -10,6 +10,7 @@ App({
       // commit 3
     // 登录
     console.log('登录qwewqewqeq');
+    console.log('123213');
       // 测试merge23
     // 获取用户信息
     wx.getSetting({
